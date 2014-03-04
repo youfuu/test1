@@ -1,0 +1,7 @@
+<chart caption='文件发布统计' xAxisName='部门' yAxisName='数量'
+	numberPrefix=''>
+	<set label='西华山医院' value='12' />
+	<set label='西华山医院' value='45' />
+	<set label='人秘股' value='90' />
+	<set label='南安卫生院' value='100' />
+</chart>
